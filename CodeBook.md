@@ -1,3 +1,4 @@
+#CodeBook - for variable / code description 
 ###library(dplyr), library(plyr), library(data.table): The required packages in order to call the existing functions.
 ###data: is the folder to be created in order  to read, and store the data sets.
 ###setwd: used to setup the working directory.
